@@ -4,4 +4,3 @@ python-dotenv==1.0.1
 crewai
 crewai_tools
 streamlit
-sqlite3==3.46.1
