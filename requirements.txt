@@ -1,0 +1,6 @@
+langchain-exa
+exa_py
+python-dotenv==1.0.1
+crewai
+crewai_tools
+streamlit
